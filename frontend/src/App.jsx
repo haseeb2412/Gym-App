@@ -3,6 +3,14 @@ import './App.css'
 import { ToastContainer,toast} from "react-toastify"
 import {BrowserRouter} from 'react-router-dom'
 import "react-toastify/dist/ReactToastify.css"
+import Navbar from './components/Navbar'
+import Hero from './components/Hero'
+import WorkOutSession from "./components/WorkOutSession"
+import Gallery from "./components/Gallery"
+import Pricing from "./components/Pricing"
+import Contact from "./components/Contact"
+import BMICalculator from "./components/BMICalculator"
+import Footer from "./components/Footer"
 import './App.css'
 
 function App() {
