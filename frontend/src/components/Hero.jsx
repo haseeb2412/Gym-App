@@ -5,12 +5,12 @@ const Hero = () => {
     <section className='hero'>
       <div className='content'>
         <div className='title'>
-          <h1>Lets</h1>
-          <h1>Get</h1>
-          <h1>Movie</h1>
+          <h1>Strength</h1>
+          <h1>Endurance</h1>
+          <h1>Fitness</h1>
         </div>
         <div className="sub-title">
-          <p>Your Journey Starts Here</p>
+          <p>Exercise strengthens the body.</p>
         </div>
         <div className="buttons">
           <button>Start Your Jouney</button>
